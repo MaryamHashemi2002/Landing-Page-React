@@ -25,9 +25,9 @@ const Header = () => {
               you engage in genuine discussion.
             </p>
 
-            <button bg="#ff099" color="#fff">
+            <Button bg="#ff0099" color="#fff">
               Get started for free
-            </button>
+            </Button>
             </div>
             <Image src="./images/illustration-mockups.svg" alt=""/>
           
